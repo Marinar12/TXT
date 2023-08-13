@@ -1,0 +1,13 @@
+id: 53,
+severity: minor,
+priority: low,
+environment: Windows 10, Chrome 115.0.5790.171,
+title: The title of the page Settings isn't blue colour,
+stepsToReproduce: 
+    step 1: Navigate to dot.com,
+    step 2: Click menu,
+    step 3: Select Settings.
+ actualResult: The text of title is red one,
+ expectedResult: The text of title is blue one,
+ attachments: link to the video,
+ author: Qa
