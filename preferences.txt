@@ -1,0 +1,5 @@
+favoutite movie: Harry Potter,
+favourite TV series: North and South,
+favourite food: ice cream,
+favourite season: summer,
+country for visiting: Greece
