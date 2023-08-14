@@ -1,0 +1,5 @@
+name: Марина,
+surname: Радченко,
+age: 36,
+pets: 0,
+desired salary: 2000$
